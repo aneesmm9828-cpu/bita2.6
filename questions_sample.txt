@@ -1,0 +1,20 @@
+Python kya hai aur iska use kahan hota hai?
+Artificial Intelligence aur Machine Learning me kya antar hai?
+Supabase database kya hai aur ise kaise use karte hain?
+List aur Tuple me main farak kya hota hai?
+HTML, CSS aur JavaScript me kya difference hai?
+SQL me primary key aur foreign key kya hoti hai?
+Deep Learning aur Neural Networks kaise kaam karte hain?
+API kya hoti hai aur REST API kaise banate hain?
+Git aur GitHub me kya antar hai?
+Qwen 2.5 model kis company ne banaya hai aur iske kya fayde hain?
+Machine learning model ko fine tune kaise kiya jata hai?
+Prompt engineering kya hoti hai aur behtar prompt kaise likhein?
+JSON aur JSONL format me kya farak hai?
+Database me indexing kyu zaroori hoti hai?
+Supervised learning aur unsupervised learning me difference kya hai?
+Python me functions kaise define karte hain?
+Web development sikhne ke liye sabse best roadmap kya hai?
+Cloud computing kya hai aur iske fayde kya hain?
+Data science me pandas library ka kya use hota hai?
+LLM ko train karne ke liye kaisa dataset chahiye hota hai?
