@@ -2237,15 +2237,9 @@
           <textarea id="systemPromptInput" class="form-control" rows="5">Aap Bita AI hain, ek helpful aur smart AI assistant jo Hindi aur English dono bhashaon me behtareen aur accurate jawab deta hai.</textarea>
         </div>
       </div>
-      <div class="modal-footer" style="display: flex; justify-content: space-between; align-items: center;">
-        <div style="display: flex; gap: 8px;">
-          <button class="btn-action" style="font-size: 0.76rem; opacity: 0.7;" onclick="closeModal('settingsModal'); openModal('keyModal');">🔑 API Keys Config</button>
-          <button class="btn-action" style="font-size: 0.76rem; opacity: 0.7;" onclick="closeModal('settingsModal'); openModal('supabaseModal');">☁️ Supabase Sync</button>
-        </div>
-        <div style="display: flex; gap: 8px;">
-          <button class="btn-action" onclick="closeModal('settingsModal')">Cancel</button>
-          <button class="btn-action btn-primary" onclick="saveSystemPrompt()">Save Prompt</button>
-        </div>
+      <div class="modal-footer" style="display: flex; justify-content: flex-end; gap: 8px;">
+        <button class="btn-action" onclick="closeModal('settingsModal')">Cancel</button>
+        <button class="btn-action btn-primary" onclick="saveSystemPrompt()">Save Prompt</button>
       </div>
     </div>
   </div>
